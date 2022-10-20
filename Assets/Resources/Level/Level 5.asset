@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cb8349c793bf114090e42645686febc, type: 3}
+  m_Name: Level 5
+  m_EditorClassIdentifier: 
+  questions:
+  - question: Which football club did Paul Gascoigne briefly manage in 2005?
+    answer:
+    - Swindon
+    - Kettering Town
+    - Barnsley
+    - Blackpool
+    indexRight: 1
+  - question: 'Name the only footballer to have played for Everton, Liverpool, Manchester
+      City and Manchester United? '
+    answer:
+    - Brian Clough
+    - Kevin Keegan
+    - 'Peter Beardsley '
+    - Ray Clemence
+    indexRight: 2
+  - question: . How many cities in England have 2 or more league teams in the top
+      four divisions of English football?
+    answer:
+    - 8
+    - 2
+    - 1
+    - 9
+    indexRight: 0
+  - question: Which year was the last time England failed to qualify for the World
+      Cup?
+    answer:
+    - 1992
+    - 2006
+    - 1984
+    - 1994
+    indexRight: 3
+  - question: West Ham have retired which number shirt in tribute to World Cup winner
+      Bobby Moore?
+    answer:
+    - 6
+    - 7
+    - 3
+    - 5
+    indexRight: 0

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cb8349c793bf114090e42645686febc, type: 3}
+  m_Name: Level 22
+  m_EditorClassIdentifier: 
+  questions:
+  - question: 'The 1954 FIFA World Cup Final saw West Germany beat which heavily
+      fancied team? '
+    answer:
+    - Hungary
+    - Iosiu
+    - Manchester
+    - Spartak
+    indexRight: 0
+  - question: West Ham have retired which number shirt in tribute to World Cup winner
+      Bobby Moore?
+    answer:
+    - 2
+    - 4
+    - 6
+    - 8
+    indexRight: 2
+  - question: "Which manager bought Britain\u2019s first one-million-pound footballer?"
+    answer:
+    - Elar Johnson
+    - Iosiph Stalin
+    - Ars Josoph
+    - 'Brian Clough '
+    indexRight: 3
+  - question: Which South American team beat Scotland 3-1 in their opening match
+      of the 1978 World Cup Finals?
+    answer:
+    - Peru
+    - Russia
+    - USA
+    - Somali
+    indexRight: 0
+  - question: How many Premier League clubs competed in the first Premier League
+      season?
+    answer:
+    - 21
+    - 22
+    - 23
+    - 24
+    indexRight: 1

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cb8349c793bf114090e42645686febc, type: 3}
+  m_Name: Level 13
+  m_EditorClassIdentifier: 
+  questions:
+  - question: Which year was the last time England failed to qualify for the World
+      Cup?
+    answer:
+    - 1994
+    - 1996
+    - 1995
+    - 1993
+    indexRight: 0
+  - question: 'The images of Terry Butcher in his blood-soaked shirt was taken after
+      England played which country in 1989? '
+    answer:
+    - Sweden
+    - Russia
+    - Portugal
+    - Mexico
+    indexRight: 0
+  - question: Name the only player born before 1960 to score a Premier League hat-trick?
+    answer:
+    - Gordon Strachan
+    - Joseph Pol
+    - Kevin Keegan
+    - Ray Clemence
+    indexRight: 0
+  - question: "A shipment of which English club\u2019s team shirts inspired Juventus
+      to change its pink shirts to a new kit in the early 1910s?"
+    answer:
+    - Notts County
+    - Kevin Keegan
+    - 'Ian Botham '
+    - Elar Porto
+    indexRight: 0
+  - question: "A shipment of which English club\u2019s team shirts inspired Juventus
+      to change its pink shirts to a new kit in the early 1910s?"
+    answer:
+    - Adam Johson
+    - 'Notts County '
+    - Notts Bredly
+    - Kenny Smith
+    indexRight: 1

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cb8349c793bf114090e42645686febc, type: 3}
+  m_Name: Level 16
+  m_EditorClassIdentifier: 
+  questions:
+  - question: Which country did England play in the 1966 World Cup semi-finals?
+    answer:
+    - Japan
+    - Russia
+    - Portugal
+    - Mexico
+    indexRight: 2
+  - question: How many times has Liverpool won the UEFA Champions League (formerly
+      known as the European Cup)?
+    answer:
+    - 1
+    - 5
+    - 3
+    - 6
+    indexRight: 3
+  - question: "Yellow and red cards were first introduced at which year\u2019s World
+      Cup? "
+    answer:
+    - Russia
+    - Mexico
+    - USA
+    - Japan
+    indexRight: 1
+  - question: Terry McCann in 'Minder' and Wolfie Smith in 'Citizen Smith' both supported
+      which team?
+    answer:
+    - Fulham
+    - Johnson
+    - Bredly
+    - Ali
+    indexRight: 0
+  - question: Name the only team in the top 4 divisions of the English football league
+      that has a name which contains all 5 vowels?
+    answer:
+    - Rotherham United
+    - Spartak
+    - Positio
+    - ioloham
+    indexRight: 0
